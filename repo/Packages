@@ -1,0 +1,26 @@
+Package: lychi.ios4facetime
+Version: 1.0
+Section: Themes
+Maintainer: lychi <2d2darchive@gmail.com>
+Depends: firmware (>4.0), winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/lychi.ios4facetime.deb
+Size: 17726
+MD5sum: 9601ebde05cfc36b5ee426e00d0c0b73
+Description: Pre-iOS 4.3 FaceTime Icon for iOS 4.3+
+Name: iOS 4.2 FaceTime Icon
+Author: lychi <2d2darchive@gmail.com>
+
+Package: lychi.ios4voicememos
+Version: 1.0
+Section: Themes
+Maintainer: lychi <2d2darchive@gmail.com>
+Depends: firmware (>4.0), winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/lychi.ios4voicememos.deb
+Size: 27738
+MD5sum: 6197155ae8374a612bba0e54a7b817c0
+Description: iOS 4.2 Voice Memos Icon for iOS 4.3+
+Name: iOS 4.2 Voice Memos Icon
+Author: lychi <2d2darchive@gmail.com>
+
