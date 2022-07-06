@@ -43,7 +43,7 @@ Section: Themes
 Maintainer: lychi <2d2darchive@gmail.com>
 Depends: firmware (>4.0), winterboard
 Architecture: iphoneos-arm
-Filename: ./debs/lychi.ios4voicememos.deb
+Filename: ./debs/lychi.ios43voicememos.deb
 Size: 27750
 MD5sum: 6acab3af20507589bf3f1751088688bf
 Description: iOS 4.3 Voice Memos Icon for iOS 4.2.1 and below
