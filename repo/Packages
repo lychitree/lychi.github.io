@@ -24,3 +24,28 @@ Description: iOS 4.2 Voice Memos Icon for iOS 4.3+
 Name: iOS 4.2 Voice Memos Icon
 Author: lychi <2d2darchive@gmail.com>
 
+Package: lychi.ios43facetime
+Version: 1.0
+Section: Themes
+Maintainer: lychi <2d2darchive@gmail.com>
+Depends: firmware (>4.0), winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/lychi.ios43facetime.deb
+Size: 17728
+MD5sum: 6af4b684bfeab65c1259a6ac537951ab
+Description: iOS 4.3 FaceTime Icon for iOS 4.2.1 and below
+Name: iOS 4.3+ FaceTime Icon
+Author: lychi <2d2darchive@gmail.com>
+
+Package: lychi.ios43voicememos
+Version: 1.0
+Section: Themes
+Maintainer: lychi <2d2darchive@gmail.com>
+Depends: firmware (>4.0), winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/lychi.ios4voicememos.deb
+Size: 27750
+MD5sum: 6acab3af20507589bf3f1751088688bf
+Description: iOS 4.3 Voice Memos Icon for iOS 4.2.1 and below
+Name: iOS 4.3+ Voice Memos Icon
+Author: lychi <2d2darchive@gmail.com>
