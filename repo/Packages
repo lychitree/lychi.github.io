@@ -19,7 +19,7 @@ Depends: winterboard
 Architecture: iphoneos-arm
 Filename: ./debs/lychi.ios4voicememos.deb
 Size: 27742
-MD5sum: 0a8a90eb8c55262f456d0137c187a88a
+MD5sum: 3f4878ba189863bc46397d12430e12a6
 Description: iOS 4.1 Voice Memos Icon for iOS 4.2+
 Name: iOS 4.1 Voice Memos Icon
 Author: lychi <2d2darchive@gmail.com>
